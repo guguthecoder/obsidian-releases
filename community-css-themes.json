@@ -6238,5 +6238,15 @@
     "repo": "draivika/bloc",
     "screenshot": "screenshot.png",
     "modes": ["light"]
+  },
+  {
+    "name": "Space to think",
+    "author": "gugu",
+    "repo": "guguthecoder/obsidian-space-to-think",
+    "screenshot": "screenshots/01-overview.png",
+    "modes": [
+      "dark",
+      "light"
+    ]
   }
 ]
